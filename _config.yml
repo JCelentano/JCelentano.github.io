@@ -1,7 +1,7 @@
 # Setup
 title:               Joe Celentano
 tagline:             'Dad, Developer, Life Debugger'
-description:         'Building, diagnosing and debugging what seems like the everything in my life.'
+description:         'Building, diagnosing and debugging what seems like everything in my life.'
 url:                 http://www.joecelentano.com
 baseurl:             ''
 paginate:            5
