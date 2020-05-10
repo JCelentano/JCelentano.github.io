@@ -1,7 +1,7 @@
 # Setup
 title:               Joe Celentano
-tagline:             'Dad, Developer, Life Debugger'
-description:         'Building, diagnosing and debugging what seems like everything in my life.'
+#tagline:             ''
+description:         'Dad, Developer, Life Debugger. Building, diagnosing and debugging what seems like everything in my life.'
 url:                 http://www.joecelentano.com
 baseurl:             ''
 paginate:            5
@@ -18,6 +18,6 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-show_downloads: false
+show_downloads: "false"
 google_analytics_id: #UA-XXXX-Y
 theme: jekyll-theme-hacker
